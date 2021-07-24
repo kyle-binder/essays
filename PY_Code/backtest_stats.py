@@ -7,10 +7,10 @@ Created on Thu Feb 11 20:52:43 2021
 #
 # For given time series of returns, provide
 # typical modern portfolio stats like beta, Sharpe, 
-# geometric/arithmetic reutnrs, INFORMATION RATIO, TRACKING ERROR
+# geometric/arithmetic returns, INFORMATION RATIO, TRACKING ERROR
 #
 # And also a python-level graphic like a dataframe calendar
-# of monthlly returns, yearly returns.
+# of monthly returns, yearly returns.
 #
 ##################################################
 
